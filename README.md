@@ -13,16 +13,16 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 
 **Thoughts** : Learnt of how to create new features from existing features in the dataset to improve my model's performance.
 
-**Link of Work:**  Here is a write up on it  
+**Link of Work:**  Here is a write up on it: https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/FEATURE%20ENGINEERING.pdf  
 
 
 ## Day 2 : Jun 5 th , 2019
 
 **Today's Progress** : I read on Feature Importance .
 
-**Thoughts** : Learnt how pickig the right features helps improve one model
+**Thoughts** : Learnt how pick the right features helps improve one model
 
-**Link of Work:** Here is a write up on it    
+**Link of Work:** Here is a write up on it: https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/Feature%20Importance.pdf  
 
 
 ## Day 3 : Jun 5 th , 2019
@@ -31,9 +31,9 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 
 **Thoughts** : I got to understand the various methods used in choosing the optimal hyperparameters for 
 
-**Link of Work:** Here is a write up on it 
+**Link of Work:** Here is a write up on it: https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/hyper-parameter.pdf
 
-## Day 4 : Jun 6 th , 2019
+## Day 4 : Jun 6th , 2019
 
 **Today's Progress** : I went for a meetup Nairobi Metta for the first ever Kaggle day in Nairobi.
 
@@ -55,43 +55,43 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 
 **Today's Progress** : Regression, Linear, Multiple and Logistic regression
 
+**Thoughts** : 
+
+**Link of Work:** Link to work:https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/%20Regression.ipynb   
+
+
+
+## Day 8 : Jun 11th ,2019
+
+**Today's Progress** : Naive Bayes
+
 **Thoughts** : learnt of what one can get from the Kaggle platform, not just a competition site, but there much more...
 
-**Link of Work:**  
+
+**Link of Work:**  Here: https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/naive%20bayes%20.ipynb
 
 
 
-## Day 8 : Jun 11th , 2019
-
-**Today's Progress** : Regression, Linear, Multiple and Logistic regression
-
-**Thoughts** : learnt of what one can get from the Kaggle platform, not just a competition site, but there much more...
-
-
-**Link of Work:**  
-
-
-
-## Day 8 : Jun 12th , 2019
+## Day 9 : Jun 12th , 2019
 
 **Today's Progress** : Classification algorithms
 
-**Thoughts** : Covered Decision Trees,KNN
+**Thoughts** : Covered Decision Trees,KNN  & SVM
 
-**Link of Work:** 
+**Link of Work:** Here: https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/Decision%20Tree.ipynb and SVM on https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/SVM%20.ipynb
 
 ## Day 9 : Jun 13th , 2019
 
 **Today's Progress** : Classification algorithms
 
-**Thoughts** : Covered SVM and did a mini-project incorporating the 4 classiers and did comparision of how the models performed.
+**Thoughts** : Mini-project incorporating the 4 classiers and did comparision of how the models performed.
 
-**Link of Work:** 
+**Link of Work:** mini project on IBM HR analytics dataset, https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/IBM%20HR%20Analytics.ipynb
 
 ## Day 10 : Jun 15th , 2019
 
 **Today's Progress** : Ensemble methods
 
-**Thoughts** : Covered SVM and did a mini-project incorporating the 4 classiers and did comparision of how the models performed.
+**Thoughts** : Ongoing
 
 **Link of Work:** 
