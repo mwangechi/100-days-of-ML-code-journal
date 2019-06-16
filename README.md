@@ -1,5 +1,6 @@
 # 100-days-of-ML-code-journal
-A journal of my progress and what I achieve on my 100 days of ML code challenge.
+I am taking up the challenge to to Learn Machine Learning at least an hour everyday.
+
 
 ## Day 0 : June 3rd , 2019
 **Today's Progress** : I have created a schedule & identified what I want to achieve after the 100 days. Selected projects to do as well. It going to be an serious learning journey and am ready for take off. 
@@ -38,7 +39,7 @@ A journal of my progress and what I achieve on my 100 days of ML code challenge.
 
 **Thoughts** : learnt of what one can get from the Kaggle platform, not just a competition site, but there much more...
 
-**Link of Work:**  See attached write up on it
+**Work:** Here is what I got from the session: Kaggle: an online community of data scientists and machine learners, owned by Google which offers: Machine learning competitions - which its is best known for. Companies post problems and the participants compete to build the best algorithms to solve the challenge. From this you can build on your portfolio and also win some good money.It has a cloud-based workbench (Kaggle Kernels) that allows data scientist to code and share their code snippets (kernels) in R and Python. And when your laptop/PC can’t handle some large datasets this can be a good option.Community members share datasets from different domains.It has a Jobs board where employers post ML jobs. AI tutorials - It’s a really good playing field to learn and improve your #datascience skills
 
 
 ## Day 5 & Day 6: Jun 8 & 9th ,2019
@@ -69,13 +70,7 @@ A journal of my progress and what I achieve on my 100 days of ML code challenge.
 
 **Link of Work:**  
 
-## Day 8 : Jun 12th , 2019
 
-**Today's Progress** : Classification
-
-**Thoughts** : Covered SDG classifier
-
-**Link of Work:** 
 
 ## Day 8 : Jun 12th , 2019
 
