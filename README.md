@@ -48,7 +48,7 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 
 **Thoughts** : Hands on try on an actual dataset from Kaggle and something on evaluation matrix
 
-**Link of Work:**  See code attached and a write up of what else I did learn in the process.
+**Link of Work:**  https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/kaggle%20house%20prices.ipynb
 
 
 ## Day 7 : Jun 10th , 2019
