@@ -97,9 +97,9 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 **Link of Work:** https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/Ensemble%20notes.ipynb , https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/kaggle%20house%20prices.ipynb
 
 
-## Day 13 : Jun 18 th , 2019
+## Day 13 : Jun 18th , 2019
 
-**Today's Progress** : Regex patterns for Loga analysis
+**Today's Progress** : Regex patterns for Log analysis
 
 **Thoughts** : Notes regex patterns and did used them to create custom grok patterns for my school project
 
