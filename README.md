@@ -113,6 +113,6 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 
 **Today's Progress** : Clustering
 
-**Thoughts** : Revisited Hierachial, density, GMM  clustering and Cluster validation
+**Thoughts** : Revisited Hierarchal, density, GMM  clustering and Cluster validation
 
 **Link of Work:** https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/Clustering.ipynb
