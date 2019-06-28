@@ -107,3 +107,12 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 
 
 **References:** https://www.youtube.com/watch?v=sa-TUpSx1JA, https://www.youtube.com/watch?v=x_h00FsOUmU&t=613s, https://github.com/elastic/logstash/blob/v1.4.2/patterns/grok-patterns
+
+
+## Day 14,15 & 16 : Jun 19,20 & 21 st , 2019
+
+**Today's Progress** : Clustering
+
+**Thoughts** : Revisited Hierachial, density, GMM  clustering and Cluster validation
+
+**Link of Work:** https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/Clustering.ipynb
