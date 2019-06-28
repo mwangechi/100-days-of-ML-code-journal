@@ -80,7 +80,7 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 
 **Link of Work:** Here: https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/Decision%20Tree.ipynb and SVM on https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/SVM%20.ipynb
 
-## Day 9 : Jun 13th , 2019
+## Day 9 & 10 : Jun 13 & 15 th , 2019
 
 **Today's Progress** : Classification algorithms
 
@@ -88,10 +88,22 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 
 **Link of Work:** mini project on IBM HR analytics dataset, https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/IBM%20HR%20Analytics.ipynb
 
-## Day 10 : Jun 15th , 2019
+## Day 11 & 12 : Jun 16 & 17 th , 2019
 
 **Today's Progress** : Ensemble methods
 
 **Thoughts** : Notes on ensemble methods and a mini project
 
 **Link of Work:** https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/Ensemble%20notes.ipynb , https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/kaggle%20house%20prices.ipynb
+
+
+## Day 13 : Jun 18 th , 2019
+
+**Today's Progress** : Regex patterns for Loga analysis
+
+**Thoughts** : Notes regex patterns and did used them to create custom grok patterns for my school project
+
+**Link of Work:** https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/Grok%20patterns.txt
+
+
+**References:** https://www.youtube.com/watch?v=sa-TUpSx1JA, https://www.youtube.com/watch?v=x_h00FsOUmU&t=613s, https://github.com/elastic/logstash/blob/v1.4.2/patterns/grok-patterns
