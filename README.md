@@ -92,6 +92,6 @@ I am taking up the challenge to to Learn Machine Learning at least an hour every
 
 **Today's Progress** : Ensemble methods
 
-**Thoughts** : Ongoing
+**Thoughts** : Notes on ensemble methods and a mini project
 
-**Link of Work:** 
+**Link of Work:** https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/Ensemble%20notes.ipynb , https://github.com/mwangechi/100-days-of-ML-code-journal/blob/master/kaggle%20house%20prices.ipynb
